@@ -1,7 +1,8 @@
 =================
 General Functions
 =================
-.. currentmodule:: janitor
+.. automodule:: janitor.general_functions
+   :members:
 
 Modify Columns
 ~~~~~~~~~~~~~~~~~~
